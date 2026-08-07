@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Eliran Katri - IT Support Specialist to Junior SOC Analyst" width="100%" />
+  <img src="./assets/github-profile-banner-v2.png" alt="Eliran Katri - IT Support to Security Operations" width="100%" />
 </p>
 
 <p align="center">
