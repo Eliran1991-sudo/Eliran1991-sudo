@@ -32,7 +32,7 @@ End-to-end purple-team workflow connecting controlled Kali reconnaissance, Windo
 
 ![Windows endpoint telemetry and Wazuh agent validation](assets/windows-endpoint-evidence.png)
 
-### [Windows SOC Home Lab with Wazuh](https://github.com/Eliran1991-sudo/SOC-Lab-Portfolio)
+### [Wazuh SOC Lab](https://github.com/Eliran1991-sudo/SOC-Lab-Portfolio)
 
 Foundational SIEM project covering Wazuh deployment, Windows endpoint onboarding, Event ID `4625` alert validation, analyst triage, and false-positive context in an isolated network.
 
@@ -53,12 +53,12 @@ Foundational SIEM project covering Wazuh deployment, Windows endpoint onboarding
 ```text
 VMware Workstation
    │
-   └── VMnet1 — isolated 192.168.75.0/24 laboratory network
-       ├── WAZUH-SIEM01 — Wazuh manager, indexer, dashboard
-       ├── WIN11-CLIENT — Wazuh agent and Sysmon telemetry
-       ├── KALI01 — authorized reconnaissance source
-       ├── SRV-DC01 — Windows Server / Active Directory
-       └── PFSENSE01 — firewall laboratory system
+   └── VMnet1 - isolated 192.168.75.0/24 laboratory network
+       ├── WAZUH-SIEM01 - Wazuh manager, indexer, dashboard
+       ├── WIN11-CLIENT - Wazuh agent and Sysmon telemetry
+       ├── KALI01 - authorized reconnaissance source
+       ├── SRV-DC01 - Windows Server / Active Directory
+       └── PFSENSE01 - firewall laboratory system
 ```
 
 Every published action is limited to the authorized local lab and documented so the result can be reproduced, investigated, and explained in an interview.
