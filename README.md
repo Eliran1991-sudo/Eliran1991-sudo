@@ -17,7 +17,7 @@
 
 I am an IT Support Specialist working in a financial enterprise environment, where I handle technical incidents involving Windows, Microsoft 365, Active Directory, networking, remote access, and ServiceNow.
 
-I completed a two-year cybersecurity and information security program. I am converting that foundation into demonstrable SOC experience through an isolated VMware lab, documented detections, sanitized evidence, and incident reports that explain the full path from telemetry to analyst conclusion.
+I completed a two-year cybersecurity and information security program. I am converting that foundation into hands-on SOC lab experience through an isolated VMware lab, documented detections, sanitized evidence, and incident reports that explain the full path from telemetry to analyst conclusion.
 
 ## Featured SOC projects
 
